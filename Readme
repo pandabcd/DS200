@@ -1,0 +1,6 @@
+Data taken from- https://data.gov.in/resources/state-and-ut-wise-total-recorded-forest-area-and-forest-cover-india-state-forest-report
+Bar plot- It is noticed that many states from the NorthEast have high forest densities (calculated as Forest Area/ Total Area).
+Scatter plot- The line separates states/ UTs with more than 33% forest area (above the line) and less than 33%. It is noticed that states/ UT with more area have lower forest density
+Box plot- The distribution of forest cover and forest area looks very similar but the numbers are much smaller than geograhical areas.
+
+The plots have been made using matplotlib using Jupyter Notebook in Python.
